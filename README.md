@@ -2,6 +2,7 @@
 
 Welcome to the DetachX Gaming Keyboards repository! This repository contains information about our innovative line of detachable gaming keyboards designed to enhance your gaming experience.
 
+**Author**: [Enzo Frese](https://github.com/FreseEnzo) and [Paulo Cantergiani](https://github.com/paulocantergiani)
 ## Features
 
 - **Detachable Design**: Our keyboards feature a unique detachable design, allowing you to customize your gaming setup and improve portability.
