@@ -17,4 +17,4 @@ To get started with DetachX Gaming Keyboards, follow these steps:
 1. **Clone the Repository**: Clone this repository to your local machine using Git.
 
 ```bash
-git clone https://github.com/yourusername/detachx-gaming-keyboards.git
+git clone https://github.com/FreseEnzo/DetachX.git
